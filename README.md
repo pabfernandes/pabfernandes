@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Name is Paulo Fernandes, currently working at a financial institution in Brazil, but not programming.
+
+I've always been fascinated by statistics, and now I'm learning python and R so I can use some, as hobby or work.
+
+Still trying to figure out some aspects of OOP, every other thing I've programmed in my life was procedural. Really liking it so far.
+
+Hope I could collaborate soon in some projects!
+
+
 <!--
 **pabfernandes/pabfernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
