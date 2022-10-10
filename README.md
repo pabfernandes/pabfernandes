@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Name is Paulo Fernandes, currently working at a financial institution in Brazil, but not programming.
-
 learning python and R for now, and some linux basics.
+
+Trying to start some data science analysis
 
 Hope to collaborate with some projects soon!
 
